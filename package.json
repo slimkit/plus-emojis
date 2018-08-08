@@ -1,6 +1,11 @@
 {
   "name": "@slimkit/plus-emojis",
   "version": "1.0.0",
+  "keywords": [
+    "emoji",
+    "plus",
+    "face"
+  ],
   "description": "Non iOS platform with Emojis",
   "main": "index.js",
   "repository": "https://github.com/slimkit/plus-emojis",
