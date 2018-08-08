@@ -1,0 +1,15 @@
+{
+  "name": "@slimkit/plus-emojis",
+  "version": "1.0.0",
+  "description": "Non iOS platform with Emojis",
+  "main": "index.js",
+  "repository": "https://github.com/slimkit/plus-emojis",
+  "author": "Seven Du <shiweidu@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  },
+  "scripts": {
+    "lint": "eslint --fix --ext .js index.js i18n/"
+  }
+}
