@@ -1,6 +1,4 @@
-<p align="center">
-    <h1>Emojis for Plus(ThinkSNS+)</h1>
-</p>
+<h1 align="center">Emojis for Plus(ThinkSNS+)</h1>
 
 ## 简介
 
